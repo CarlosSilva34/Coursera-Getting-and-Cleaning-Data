@@ -7,7 +7,7 @@
 
 3 - Merge test dataset to training dataset to generate a 10299x561 data frame, mergeData; merge testLabel to trainLabel to generate a 10299x1 data frame, mergeLabel; merge testSubject to trainSubject to generate a 10299x1 data frame, mergeSubject.
 
-4 - Read the features.txt file from the "/padata" folder and store the data in a variable called features. Only extract the measurements on the mean and standard deviation. We get a subset of mergeData with the 66 corresponding columns.
+4 - Read the features.txt file from the "/padata" folder and store the data in a variable called features. Only extract the measurements on the mean and standard deviation. I get a subset of mergeData with the 66 corresponding columns.
 
 5 - Clean the column names of the subset. Remove the "()" and "-" symbols in the names, as well make the first letter of "mean" and "std" a capital letter "M" and "S" respectively.
 
