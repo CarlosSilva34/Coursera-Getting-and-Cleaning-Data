@@ -5,7 +5,7 @@
 
 2 - Read test data set - Read X_test.txt, y_test.txt and subject_test.txt from the "./padata/test" folder and store them in testData, testLabeland testsubject variables respectively.
 
-3 - Merge test dataset to training dataset to generate a 10299x561 data frame, joinData; merge testLabel totrainLabel to generate a 10299x1 data frame, mergeLabel; merge testSubject to trainSubject to generate a 10299x1 data frame, mergeSubject.
+3 - Merge test dataset to training dataset to generate a 10299x561 data frame, mergeData; merge testLabel to trainLabel to generate a 10299x1 data frame, mergeLabel; merge testSubject to trainSubject to generate a 10299x1 data frame, mergeSubject.
 
 4 - Read the features.txt file from the "/padata" folder and store the data in a variable called features. We only extract the measurements on the mean and standard deviation. We get a subset of mergeData with the 66 corresponding columns.
 
