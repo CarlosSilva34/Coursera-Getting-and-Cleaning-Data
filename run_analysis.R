@@ -91,7 +91,4 @@ write.table(result, "data_means.txt")
         
 #data <- read.table("./data_means.txt")
 #data[1:12, 1:3]
-        
-
-}
 
