@@ -32,5 +32,4 @@ Combine the mergeSubject, mergeLabel and mergeData by column to get a new cleane
 11 - Generate a second independent tidy data set for average of each measurement
 Finally, generate a second independent tidy data set with the average of each measurement for each activity and each subject. We have 30 unique subjects and 6 unique activities, which result in a 180 combinations of the two. Then, for each combination, we calculate the mean of each measurement with the corresponding combination. So, after initializing the result data frame and performing the two for-loops, we get a 180x68 data frame.
 
-12 - Write the result out to "tidyData.txt"
-Write the result out to "tidyData.txt" file in current working directory.
+12 - Write the result out to "tidyData.txt" file in current working directory.
