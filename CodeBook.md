@@ -11,7 +11,7 @@
 
 5 - Clean the column names of the subset. Remove the "()" and "-" symbols in the names, as well make the first letter of "mean" and "std" a capital letter "M" and "S" respectively.
 
-6 - Read the activity_labels.txt file from the "./padata"" folder and store the data in a variable called activity.
+6 - Read the activity_labels.txt file from the "./padata" folder and store the data in a variable called activity.
 
 7 - Clean the activity names in the second column of activity. First make all names to lower cases. If the name has an underscore between letters, remove the underscore and capitalize the letter immediately after the underscore.
 
