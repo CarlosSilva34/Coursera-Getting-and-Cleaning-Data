@@ -3,7 +3,7 @@
 
 1 - Read training data set - Read X_train.txt, y_train.txt and subject_train.txt from the "./padata/train" folder and store them in trainData,trainLabel and trainSubject variables respectively.
 
-2 - Read test data set - Read X_test.txt, y_test.txt and subject_test.txt from the "./padata/test" folder and store them in testData, testLabeland testsubject variables respectively.
+2 - Read test data set - Read X_test.txt, y_test.txt and subject_test.txt from the "./padata/test" folder and store them in testData, testLabel and testsubject variables respectively.
 
 3 - Merge test dataset to training dataset to generate a 10299x561 data frame, mergeData; merge testLabel to trainLabel to generate a 10299x1 data frame, mergeLabel; merge testSubject to trainSubject to generate a 10299x1 data frame, mergeSubject.
 
