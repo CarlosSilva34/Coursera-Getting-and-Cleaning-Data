@@ -87,7 +87,3 @@ for(i in 1:subLen) {
 head(result)
 # write out the 2nd dataset
 write.table(result, "tidyData.txt")
-
-#data <- read.table("./tidyData.txt")
-#data[1:12,]
-        
